@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">clean status bar</string>
+
+    <!-- MainActivity -->
+    <string name="api_level">API 级别</string>
+    <string name="m_light_status_bar">M Light mode</string>
+    <string name="kit_kat_gradient">KitKat gradient</string>
+    <string name="wifi_icon">无线上网图标</string>
+    <string name="network_icon">网络图标</string>
+    <string name="time">时间</string>
+    <string name="use_24_hour_format">使用 24-小时 格式</string>
+    <string name="background">背景</string>
+    <string name="off">关闭</string>
+    <string name="empty">空</string>
+    <string name="network_icon_info">信号图标将会被看见当无线上网被关闭</string>
+    <string name="gps">全球定位系统</string>
+
+    <!-- Notification -->
+    <string name="clean_status_bar_is_running">清洁状态正在运行</string>
+    <string name="touch_to_configure">触摸配置。</string>
+
+    <!-- TimePreference -->
+    <string name="set_time">时间设定</string>
+    <string name="cancel">取消</string>
+
+    <!-- Colours -->
+    <string name="black">黑色</string>
+    <string name="white">白色</string>
+    <string name="blue">蓝色</string>
+    <string name="purple">紫色</string>
+    <string name="green">绿色</string>
+    <string name="yellow">黄色</string>
+    <string name="red">红色</string>
+
+    <!-- ColourPreference -->
+    <string name="title_delete_colour">删除颜色</string>
+    <string name="message_delete_colour">确定删除这个颜色?</string>
+    <string name="title_add_new_colour">添加新颜色</string>
+    <string name="hint_colour_name">颜色名字</string>
+    <string name="hint_colour_value">颜色值 (e.g. 33B5E5)</string>
+    <string name="button_add">添加</string>
+    <string name="button_cancel">@string/cancel</string>
+    <string name="yes">是</string>
+    <string name="no">不是</string>
+
+</resources>
